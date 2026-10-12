@@ -1,6 +1,6 @@
 # Raúl Fernández España
 
-**Backend engineer moving into AI engineering** — Gijón, Spain · C# / .NET / SQL Server · Python, agents and LLM evals
+**Software engineer — backend and AI** · Gijón, Spain · C# / .NET / SQL Server · Python, AI agents and LLM evals
 
 > *The query returned 153 rows. The table had 286.*
 
