@@ -133,7 +133,7 @@ The interesting part isn't the model. It's everything around it: two-way calenda
 ## Currently
 
 - Reading *AI Engineering* (Chip Huyen)
-- Starting **Agent World**: a strategy game where AI-governed nations trade, negotiate, betray each other and go to war — built by hand, one milestone at a time
+- Building **[Pax Agentica](https://github.com/raulEspaa/pax-agentica)**: a strategy game where AI-ruled nations trade, negotiate, betray each other and go to war — built by hand, spec and tests first, one milestone at a time
 - Building out a home lab — Proxmox, k3s, Terraform
 - Open to relocation. EU citizen.
 
