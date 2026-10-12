@@ -92,7 +92,6 @@ The interesting part isn't the model. It's everything around it: two-way calenda
 
 - **PlotTwist** — an editor for interactive, choose-your-path video stories. Scenes are nodes on a visual canvas, viewer decisions are the connections between them, and a built-in player follows whichever path the viewer picks
 - **Neosystems Hackathon** — winner. Designed and shipped something that worked, under a fixed clock
-- **Branching narrative editor** — final degree project: a desktop editor for interactive branching stories, with a visual graph of nodes and conditional paths
 
 ---
 
